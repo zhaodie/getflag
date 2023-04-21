@@ -1,4 +1,6 @@
 # awd_getflag
+打包好的在Releases
+
 团队建立了知识星球，不定时更新最新漏洞复现，手把手教你，同时不定时更新POC、各种攻防神器。感兴趣的可以加一下。
 
 ![image](https://user-images.githubusercontent.com/46781023/233604511-4f0029db-015a-433e-b164-52e1cd3ba2b8.png)
